@@ -1,0 +1,20 @@
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build directories
+ShiftSwift-Backend/
+**/target/
+**/build/
+bin/
+obj/
+
+# OS files
+Thumbs.db
+db.json
+.DS_Store

@@ -90,7 +90,6 @@ JDBC URL: jdbc:h2:mem:shiftswift
 Username: sa
 Password: (leave blank)
 ```
-
 ---
 
 ## API Endpoints
